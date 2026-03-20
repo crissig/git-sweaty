@@ -35059,5 +35059,31 @@
     "start_date_local": "2026-03-19T12:18:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 28036.0,
+    "elevation_gain": 456.0,
+    "id": "17781592109",
+    "moving_time": 4232.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-19T17:12:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 3800.0,
+    "elevation_gain": 0.0,
+    "id": "17787735174",
+    "moving_time": 5400.0,
+    "name": "Nuotata al mattino",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-20T06:12:55Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
