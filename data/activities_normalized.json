@@ -35280,5 +35280,44 @@
     "start_date_local": "2026-04-01T17:12:11Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 10168.6,
+    "elevation_gain": 66.0,
+    "id": "17940106867",
+    "moving_time": 2980.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T18:00:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 112366.0,
+    "elevation_gain": 1654.0,
+    "id": "17948414550",
+    "moving_time": 14506.0,
+    "name": "D1 - Collobri\u00e8res",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T08:50:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "17951415241",
+    "moving_time": 2138.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-02T16:49:30Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
