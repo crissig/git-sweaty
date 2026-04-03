@@ -35319,5 +35319,31 @@
     "start_date_local": "2026-04-02T16:49:30Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 135238.0,
+    "elevation_gain": 2080.0,
+    "id": "17960973900",
+    "moving_time": 17633.0,
+    "name": "D2 - Draguignan",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T08:19:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 1300.0,
+    "elevation_gain": 0.0,
+    "id": "17963226418",
+    "moving_time": 1348.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-03T16:08:47Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
