@@ -35345,5 +35345,44 @@
     "start_date_local": "2026-04-03T16:08:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 12328.5,
+    "elevation_gain": 63.0,
+    "id": "17964466108",
+    "moving_time": 3608.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T17:08:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 116494.0,
+    "elevation_gain": 1687.0,
+    "id": "17973193710",
+    "moving_time": 14616.0,
+    "name": "D3 - Bormes-les-Mimosas",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T08:34:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 3200.0,
+    "elevation_gain": 0.0,
+    "id": "17975249199",
+    "moving_time": 3374.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-04T14:44:34Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
