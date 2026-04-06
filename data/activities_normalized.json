@@ -35410,5 +35410,44 @@
     "start_date_local": "2026-04-05T09:57:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2050.0,
+    "elevation_gain": 0.0,
+    "id": "17989665634",
+    "moving_time": 2444.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-05T17:04:03Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 106153.0,
+    "elevation_gain": 1448.0,
+    "id": "17997237039",
+    "moving_time": 13893.0,
+    "name": "D5 - Col de Valdingarde",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-06T08:27:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 2500.0,
+    "elevation_gain": 0.0,
+    "id": "18000663860",
+    "moving_time": 3351.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-06T15:21:05Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
