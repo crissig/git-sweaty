@@ -35579,5 +35579,18 @@
     "start_date_local": "2026-04-10T09:25:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 72838.4,
+    "elevation_gain": 1830.0,
+    "id": "18064716842",
+    "moving_time": 10065.0,
+    "name": "Mont Ventoux \ud83c\udf1e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T09:50:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
