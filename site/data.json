@@ -19214,6 +19214,27 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41609,6 +41630,24 @@
           "distance": 63049.1,
           "elevation_gain": 409.0,
           "moving_time": 6558.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18160757677"
+          ],
+          "count": 1,
+          "distance": 110375.0,
+          "elevation_gain": 1426.0,
+          "moving_time": 19180.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18171273379"
+          ],
+          "count": 1,
+          "distance": 56773.0,
+          "elevation_gain": 892.0,
+          "moving_time": 10245.0
         }
       },
       "Run": {
@@ -42107,6 +42146,15 @@
           "distance": 12298.6,
           "elevation_gain": 55.0,
           "moving_time": 3311.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18161782952"
+          ],
+          "count": 1,
+          "distance": 6617.0,
+          "elevation_gain": 94.0,
+          "moving_time": 1898.0
         }
       },
       "Swim": {
@@ -42613,7 +42661,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:34:51.425908+00:00",
+  "generated_at": "2026-04-19T15:35:04.300848+00:00",
   "other_bucket": "OtherSports",
   "repo": "crissig/git-sweaty",
   "source": "strava",

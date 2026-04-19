@@ -35683,5 +35683,44 @@
     "start_date_local": "2026-04-16T17:50:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 110375.0,
+    "elevation_gain": 1426.0,
+    "id": "18160757677",
+    "moving_time": 19180.0,
+    "name": "Gruppo vacanze 26",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T10:19:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 6617.0,
+    "elevation_gain": 94.0,
+    "id": "18161782952",
+    "moving_time": 1898.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T18:47:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 56773.0,
+    "elevation_gain": 892.0,
+    "id": "18171273379",
+    "moving_time": 10245.0,
+    "name": "Mummelride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T10:14:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
