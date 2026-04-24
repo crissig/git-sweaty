@@ -35748,5 +35748,31 @@
     "start_date_local": "2026-04-21T12:12:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 15153.3,
+    "elevation_gain": 165.0,
+    "id": "18214083481",
+    "moving_time": 4349.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T17:17:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 54194.7,
+    "elevation_gain": 1480.0,
+    "id": "18229535405",
+    "moving_time": 8795.0,
+    "name": "Golden hour Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T17:46:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
