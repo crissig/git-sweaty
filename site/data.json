@@ -19326,6 +19326,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 15,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 9,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41302,6 +41316,15 @@
           "distance": 5850.5,
           "elevation_gain": 51.0,
           "moving_time": 5237.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18348468434"
+          ],
+          "count": 1,
+          "distance": 6098.3,
+          "elevation_gain": 248.0,
+          "moving_time": 4558.0
         }
       },
       "NordicSki": {
@@ -41793,6 +41816,15 @@
           "distance": 81703.0,
           "elevation_gain": 517.0,
           "moving_time": 8646.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18358268162"
+          ],
+          "count": 1,
+          "distance": 123481.0,
+          "elevation_gain": 763.0,
+          "moving_time": 12920.0
         }
       },
       "Run": {
@@ -42869,7 +42901,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:42:33.084110+00:00",
+  "generated_at": "2026-05-03T15:43:35.156943+00:00",
   "other_bucket": "OtherSports",
   "repo": "crissig/git-sweaty",
   "source": "strava",
