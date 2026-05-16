@@ -36151,5 +36151,31 @@
     "start_date_local": "2026-05-15T12:06:34Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 13966.6,
+    "elevation_gain": 38.0,
+    "id": "18524918308",
+    "moving_time": 3674.0,
+    "name": "Crescendo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T08:20:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 106464.0,
+    "elevation_gain": 1344.0,
+    "id": "18528589237",
+    "moving_time": 12393.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T10:42:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
