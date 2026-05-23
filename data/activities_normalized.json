@@ -36281,5 +36281,31 @@
     "start_date_local": "2026-05-22T07:14:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 19702.4,
+    "elevation_gain": 134.0,
+    "id": "18619926560",
+    "moving_time": 4746.0,
+    "name": "Triathlon du Lion \ud83e\udd47",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-23T11:53:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 85120.0,
+    "elevation_gain": 1323.0,
+    "id": "18621419494",
+    "moving_time": 8497.0,
+    "name": "Triathlon du Lion - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T09:30:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
