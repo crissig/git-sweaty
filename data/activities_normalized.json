@@ -36307,5 +36307,31 @@
     "start_date_local": "2026-05-23T09:30:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 64369.3,
+    "elevation_gain": 1154.0,
+    "id": "18633916941",
+    "moving_time": 11391.0,
+    "name": "La Planche des Belles Filles\ud83d\ude0d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T08:20:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 1026.1,
+    "elevation_gain": 0.0,
+    "id": "18636725560",
+    "moving_time": 1306.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-24T16:33:15Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
