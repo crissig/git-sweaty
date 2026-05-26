@@ -36346,5 +36346,18 @@
     "start_date_local": "2026-05-25T11:37:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 5.9,
+    "elevation_gain": 0.0,
+    "id": "18658408783",
+    "moving_time": 8.0,
+    "name": "Camminata all\u2019ora di pranzo",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-26T11:21:42Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
