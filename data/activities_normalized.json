@@ -36411,5 +36411,31 @@
     "start_date_local": "2026-05-27T17:29:31Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 12009.0,
+    "elevation_gain": 74.0,
+    "id": "18684456639",
+    "moving_time": 3145.0,
+    "name": "Bonjour Toulouse #2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T06:18:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 3200.0,
+    "elevation_gain": 0.0,
+    "id": "18690574566",
+    "moving_time": 2851.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-28T16:54:58Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
