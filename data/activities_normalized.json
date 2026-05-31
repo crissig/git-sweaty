@@ -36463,5 +36463,57 @@
     "start_date_local": "2026-05-30T07:45:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 12006.2,
+    "elevation_gain": 85.0,
+    "id": "18718875152",
+    "moving_time": 3549.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T18:38:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 21139.6,
+    "elevation_gain": 208.0,
+    "id": "18723701202",
+    "moving_time": 5606.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T06:37:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 60570.4,
+    "elevation_gain": 789.0,
+    "id": "18730290501",
+    "moving_time": 7238.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T14:32:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 14386.7,
+    "elevation_gain": 67.0,
+    "id": "18731290831",
+    "moving_time": 3603.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T16:43:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
