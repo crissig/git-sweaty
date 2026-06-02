@@ -36515,5 +36515,57 @@
     "start_date_local": "2026-05-31T16:43:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 650.0,
+    "elevation_gain": 0.0,
+    "id": "18754196039",
+    "moving_time": 1200.0,
+    "name": "Nuotata al mattino",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-31T10:22:00Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 4000.0,
+    "elevation_gain": 0.0,
+    "id": "18754176956",
+    "moving_time": 4800.0,
+    "name": "Nuotata pomeridiana",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-01T16:21:00Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18754169369",
+    "moving_time": 2700.0,
+    "name": "Allenamento con i pesi all\u2019ora di pranzo",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-02T12:20:00Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 28875.7,
+    "elevation_gain": 315.0,
+    "id": "18759284738",
+    "moving_time": 7554.0,
+    "name": "Tuesday Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T17:48:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
