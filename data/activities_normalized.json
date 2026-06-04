@@ -36580,5 +36580,31 @@
     "start_date_local": "2026-06-03T19:05:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 46161.5,
+    "elevation_gain": 426.0,
+    "id": "18783381984",
+    "moving_time": 5878.0,
+    "name": "Back",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T13:09:36Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 32115.7,
+    "elevation_gain": 1272.0,
+    "id": "18783388952",
+    "moving_time": 8309.0,
+    "name": "Molto grande il Grand Ballon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T10:01:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
