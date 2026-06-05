@@ -36606,5 +36606,31 @@
     "start_date_local": "2026-06-04T10:01:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 10236.7,
+    "elevation_gain": 69.0,
+    "id": "18792889032",
+    "moving_time": 2713.0,
+    "name": "Corsa mattutina",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T07:32:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 97444.8,
+    "elevation_gain": 2348.0,
+    "id": "18797205607",
+    "moving_time": 18005.0,
+    "name": "5 Cols loop \ud83e\udef6\ud83c\udffb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T09:49:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
