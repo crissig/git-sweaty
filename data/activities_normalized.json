@@ -36645,5 +36645,44 @@
     "start_date_local": "2026-06-06T09:05:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 6607.3,
+    "elevation_gain": 24.0,
+    "id": "18813511319",
+    "moving_time": 1809.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T18:55:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 9288.5,
+    "elevation_gain": 82.0,
+    "id": "18814148376",
+    "moving_time": 3010.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T19:31:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 103232.0,
+    "elevation_gain": 2089.0,
+    "id": "18824008219",
+    "moving_time": 17752.0,
+    "name": "Col de la Schlucht",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T09:11:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
