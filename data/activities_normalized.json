@@ -36684,5 +36684,31 @@
     "start_date_local": "2026-06-07T09:11:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18849357471",
+    "moving_time": 1980.0,
+    "name": "Sauna",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-08T17:19:39Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18849344249",
+    "moving_time": 2700.0,
+    "name": "Allenamento con i pesi all\u2019ora di pranzo",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-09T11:48:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
