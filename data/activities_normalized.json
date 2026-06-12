@@ -36762,5 +36762,44 @@
     "start_date_local": "2026-06-11T18:03:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 7.2,
+    "elevation_gain": 0.0,
+    "id": "18888206091",
+    "moving_time": 1.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-11T13:59:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 1940.6,
+    "elevation_gain": 13.6,
+    "id": "18888157906",
+    "moving_time": 15.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T11:41:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 13300.0,
+    "elevation_gain": 0.0,
+    "id": "18889737027",
+    "moving_time": 3621.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T12:55:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
