@@ -36827,5 +36827,44 @@
     "start_date_local": "2026-06-13T07:18:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 5433.1,
+    "elevation_gain": 59.0,
+    "id": "18915757158",
+    "moving_time": 4938.0,
+    "name": "Escursione dell'ora di pranzo",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-14T11:58:36Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 43144.7,
+    "elevation_gain": 0.0,
+    "id": "18918401462",
+    "moving_time": 5658.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T15:05:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 19161.2,
+    "elevation_gain": 154.0,
+    "id": "18919637946",
+    "moving_time": 4867.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T16:45:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
