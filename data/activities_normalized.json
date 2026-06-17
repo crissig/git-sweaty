@@ -36892,5 +36892,31 @@
     "start_date_local": "2026-06-16T18:19:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 34117.1,
+    "elevation_gain": 465.0,
+    "id": "18956487466",
+    "moving_time": 5062.0,
+    "name": "Pedalata dell'ora di pranzo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T12:12:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 3950.0,
+    "elevation_gain": 0.0,
+    "id": "18960795966",
+    "moving_time": 3729.0,
+    "name": "Nuotata serale",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-17T18:14:53Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
