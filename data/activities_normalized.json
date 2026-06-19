@@ -36918,5 +36918,44 @@
     "start_date_local": "2026-06-17T18:14:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 1900.0,
+    "elevation_gain": 0.0,
+    "id": "18974189087",
+    "moving_time": 2165.0,
+    "name": "Nuotata serale",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-18T18:43:31Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 5300.0,
+    "elevation_gain": 0.0,
+    "id": "18980320702",
+    "moving_time": 5142.0,
+    "name": "Nuotata mattutina",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-19T06:36:03Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 10724.2,
+    "elevation_gain": 77.0,
+    "id": "18985791144",
+    "moving_time": 3006.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-19T16:55:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
