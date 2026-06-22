@@ -36996,5 +36996,31 @@
     "start_date_local": "2026-06-21T07:06:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 1354.4,
+    "elevation_gain": 27.1,
+    "id": "19020937683",
+    "moving_time": 8.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T04:00:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 2610.2,
+    "elevation_gain": 0.0,
+    "id": "19024839168",
+    "moving_time": 3648.0,
+    "name": "Nuotata serale",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-22T18:15:19Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
