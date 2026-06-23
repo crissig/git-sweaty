@@ -37022,5 +37022,31 @@
     "start_date_local": "2026-06-22T18:15:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 55316.4,
+    "elevation_gain": 465.0,
+    "id": "19031617507",
+    "moving_time": 7397.0,
+    "name": "Pedalata mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T06:28:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 12586.4,
+    "elevation_gain": 102.0,
+    "id": "19034068040",
+    "moving_time": 3363.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T12:10:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
