@@ -37048,5 +37048,18 @@
     "start_date_local": "2026-06-23T12:10:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 10606.2,
+    "elevation_gain": 86.0,
+    "id": "19047538653",
+    "moving_time": 3011.0,
+    "name": "Corsa dell'ora di pranzo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T12:07:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
