@@ -37061,5 +37061,31 @@
     "start_date_local": "2026-06-24T12:07:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 4250.0,
+    "elevation_gain": 0.0,
+    "id": "19053834482",
+    "moving_time": 4841.0,
+    "name": "Nuotata pomeridiana",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-24T17:53:45Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 73598.2,
+    "elevation_gain": 441.0,
+    "id": "19057950327",
+    "moving_time": 7300.0,
+    "name": "Morning coffe",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T06:06:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
