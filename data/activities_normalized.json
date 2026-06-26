@@ -37087,5 +37087,31 @@
     "start_date_local": "2026-06-25T06:06:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 13806.8,
+    "elevation_gain": 102.0,
+    "id": "19070149741",
+    "moving_time": 3674.0,
+    "name": "Tic toc",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T07:04:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 1950.0,
+    "elevation_gain": 0.0,
+    "id": "19075399451",
+    "moving_time": 2366.0,
+    "name": "Nuotata pomeridiana",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-26T17:30:42Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
