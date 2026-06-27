@@ -37113,5 +37113,31 @@
     "start_date_local": "2026-06-26T17:30:42Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 144558.0,
+    "elevation_gain": 915.0,
+    "id": "19081451907",
+    "moving_time": 14429.0,
+    "name": "Early ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T04:39:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 5050.0,
+    "elevation_gain": 0.0,
+    "id": "19084219044",
+    "moving_time": 5703.0,
+    "name": "Nuotata dell'ora di pranzo",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-27T11:15:27Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
