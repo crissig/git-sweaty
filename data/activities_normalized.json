@@ -37139,5 +37139,31 @@
     "start_date_local": "2026-06-27T11:15:27Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 30017.4,
+    "elevation_gain": 251.0,
+    "id": "19093541782",
+    "moving_time": 7753.0,
+    "name": "Last big dance",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T05:28:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 2550.0,
+    "elevation_gain": 0.0,
+    "id": "19095887113",
+    "moving_time": 2768.0,
+    "name": "Nuotata mattutina",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-28T10:38:35Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
