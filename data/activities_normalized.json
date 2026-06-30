@@ -37178,5 +37178,18 @@
     "start_date_local": "2026-06-29T17:35:18Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 43194.0,
+    "elevation_gain": 678.0,
+    "id": "19122055296",
+    "moving_time": 5601.0,
+    "name": "Pedalata dell'ora di pranzo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T11:40:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
